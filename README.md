@@ -69,13 +69,13 @@
 ## 🎥 Видео-демонстрация
 
 <p>
-  <a href="https://github.com/user-attachments/assets/ce85cf04-63fc-4ea7-9931-baca0bd692d1">
-    <img src="https://github.com/user-attachments/assets/ce85cf04-63fc-4ea7-9931-baca0bd692d1" width="300" />
+  <a href="https://github.com/user-attachments/assets/c5d113bf-ff55-4bcd-b110-2e2af3d034d4">
+    <img src="https://github.com/user-attachments/assets/c5d113bf-ff55-4bcd-b110-2e2af3d034d4" width="300" />
   </a>
 </p>
 
-
 ---
+
 
 ## 📊 Презентация проекта
 
