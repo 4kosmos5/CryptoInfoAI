@@ -68,8 +68,12 @@
 
 ## 🎥 Видео-демонстрация
 
-[![Смотреть на YouTube](https://img.youtube.com/vi/XXXXXXX/0.jpg)](https://www.youtube.com/watch?v=XXXXXXX)  
-*Нажмите, чтобы открыть в YouTube*
+<p>
+  <a href="https://github.com/user-attachments/assets/ce85cf04-63fc-4ea7-9931-baca0bd692d1">
+    <img src="https://github.com/user-attachments/assets/ce85cf04-63fc-4ea7-9931-baca0bd692d1" width="300" />
+  </a>
+</p>
+
 
 ---
 
