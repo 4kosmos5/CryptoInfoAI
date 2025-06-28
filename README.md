@@ -62,6 +62,13 @@
 ![Главный экран]![1](https://github.com/user-attachments/assets/a8672c68-fb5d-4b7f-8ecf-d77d7550fd90)
 ![Обновление данных]![2](https://github.com/user-attachments/assets/891928e2-7374-442b-b910-62f5e81dfb81)
 
+## 📸 Скриншоты
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/a8672c68-fb5d-4b7f-8ecf-d77d7550fd90" width="300" />
+  <img src="https://github.com/user-attachments/assets/891928e2-7374-442b-b910-62f5e81dfb81" width="300" />
+</p>
+
 ---
 
 ## 🎥 Видео-демонстрация
